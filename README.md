@@ -1,4 +1,4 @@
-# Middleman Template
+# Middleman 4 Boilerplate featuring Webpack 3 External Pipeline
 
 The base Middleman application ready to deploy to [Netlify](https://www.netlify.com/).
 
