@@ -1,12 +1,6 @@
 # Middleman Template
 
-The base Middleman application used at [Stone Ward], ready to deploy
-to [Netlify].
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stone-ward/middleman-template)
-
-  [Stone Ward]: https://stoneward.com/
-  [Netlify]: https://www.netlify.com/
+The base Middleman application ready to deploy to [Netlify](https://www.netlify.com/).
 
 ## Configuration
 
@@ -23,9 +17,7 @@ This template uses [Webpack] for asset processing through the external pipeline.
 
 ## Use
 
-`middleman init MY_PROJECT_FOLDER -T git@github.com:stone-ward/middleman-template.git`
-
-`cd MY_PROJECT_FOLDER`
+`middleman init MY_PROJECT_FOLDER -T git@github.com:rjoss/middleman-webpack-bootstrap.git`
 
 Install dependencies:
 
